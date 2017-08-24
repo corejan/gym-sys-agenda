@@ -1,5 +1,5 @@
-Roadmap
-=======
+Schedule
+========
 
 1. Finish tech prepare. (about 4 weeks)
 2. Discuss the requirement of the project. (1~2 weeks)
